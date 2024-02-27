@@ -2,7 +2,8 @@ body{
     background-color: rgb(255, 255, 255);
     align-items: center;
     color: black;
-    
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 600;
 }
 
 nav{
@@ -31,7 +32,11 @@ a{
 
 main{
     columns: 2;
+    
+    justify-content: center;
 }
+
+
 
 #logo{
     width: 24px;
